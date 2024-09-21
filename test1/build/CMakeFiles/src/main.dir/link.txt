@@ -1,0 +1,3 @@
+F:\cmake\bin\cmake.exe -E rm -f CMakeFiles\.\src\main.dir/objects.a
+F:\VScode\mingw64\bin\ar.exe qc CMakeFiles\.\src\main.dir/objects.a @CMakeFiles\.\src\main.dir\objects1.rsp
+F:\VScode\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\.\src\main.dir/objects.a -Wl,--no-whole-archive -o .\src\main.exe -Wl,--out-implib,lib.\src\main.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\.\src\main.dir\linkLibs.rsp

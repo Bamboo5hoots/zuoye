@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/VScode/test1/build",
+  "command": "F:\\VScode\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\test.dir\\src\\a.c.obj -c F:\\VScode\\test1\\src\\a.c",
+  "file": "F:/VScode/test1/src/a.c",
+  "output": "CMakeFiles/test.dir/src/a.c.obj"
+},
+{
+  "directory": "F:/VScode/test1/build",
+  "command": "F:\\VScode\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\test.dir\\src\\main.c.obj -c F:\\VScode\\test1\\src\\main.c",
+  "file": "F:/VScode/test1/src/main.c",
+  "output": "CMakeFiles/test.dir/src/main.c.obj"
+}
+]

@@ -1,0 +1,3 @@
+F:\cmake\bin\cmake.exe -E rm -f CMakeFiles\te.dir/objects.a
+F:\VScode\mingw64\bin\ar.exe qc CMakeFiles\te.dir/objects.a @CMakeFiles\te.dir\objects1.rsp
+F:\VScode\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\te.dir/objects.a -Wl,--no-whole-archive -o te.exe -Wl,--out-implib,libte.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\te.dir\linkLibs.rsp
